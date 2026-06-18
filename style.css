@@ -16,6 +16,8 @@ body {
 .div2 {
     grid-column: span 3 / span 3;
     grid-row-start: 2;
+    background-color: #ed001a;
+    padding: 30px;
 }
 
 .div3 {
@@ -26,17 +28,24 @@ body {
 
 .div4 {
     grid-row-start: 5;
+    background-color:azure;
 }
 
 .div5 {
     grid-row-start: 5;
+     background-color:azure;
 }
 
 .div6 {
     grid-row-start: 5;
+     background-color:azure;
 }
 
 .div7 {
     grid-column: span 3 / span 3;
     grid-row-start: 6;
+}
+
+a {
+    color:#d4e7e9;
 }
